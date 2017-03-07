@@ -9,7 +9,7 @@
 - [ ] Dashboard & share
 
 ## Simple mockup
-![](https://cloud.githubusercontent.com/assets/10692276/23663032/574303f8-038c-11e7-8af7-bd83605c8501.png)
+![](https://cloud.githubusercontent.com/assets/10692276/23663645/33305df6-038e-11e7-90c7-e4a374430bc0.png)
 
 ## License 
 MIT
